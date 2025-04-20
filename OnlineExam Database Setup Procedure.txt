@@ -1,0 +1,3 @@
+1. Set GlassFish server as default in net beans IDE
+2. Set Password:tiger and user:root in XAMP MySQL
+2. GRANT ALL PRIVILEGES ON *.* TO 'root'@'localhost' IDENTIFIED BY 'tiger' WITH GRANT OPTION
